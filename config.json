@@ -1,0 +1,7 @@
+{
+    "TOKEN": "ваш_токен_бота",
+    "ADMIN_CHAT_ID": "ваш_id_чата",
+    "ADMIN_USER_IDS": [123456789, 987654321],
+    "MESSAGE_TIMEOUT": 5,
+    "MUTE_DURATION": 3600
+}
